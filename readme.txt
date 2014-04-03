@@ -11,6 +11,11 @@ Automatically adds various feeds into the content of posts and pages.
 == Description ==
 
 Automatically adds various feeds into the content of posts and pages.
+Those supported feeds are from following ads sources:
+1. VC
+2. Adsense
+3. OB
+4. Traficz
 
 == Installation ==
 
