@@ -1,0 +1,49 @@
+a.URLtop {
+        text-decoration:underline !important;
+		padding:1px 0 1px 0px !important;
+}
+
+a.URLbottom { 
+        color:#404040 !important;
+        text-decoration:underline !important;
+		padding:1px 0 1px 0px !important;
+}
+
+a.URLtext { 
+        text-decoration:none !important;
+        color:#5D646D !important;
+		padding:1px 0 1px 0px !important;
+}
+
+.sponsoredresults {
+        padding:4px 0px 0px 0px !important;
+        font-size:10px !important; 
+        color:#999 !important; 
+}
+
+#results {
+        margin:0 !important; 
+		padding-left:8px; !important;
+}
+
+#results p { 
+        margin:5px 0px 10px 0px !important; 
+        padding:0 !important;
+		line-height:150% !important;
+}
+
+.URLtop {
+        font-weight: normal !important;
+        font-size: 12pt !important;
+        text-decoration:underline !important;
+}
+
+.URLbottom { 
+        color:#404040 !important; 
+        text-decoration:none !important; 
+}
+
+.URLtext { 
+        text-decoration:none !important;
+        color:#5D646D !important;
+}
